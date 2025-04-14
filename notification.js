@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "Temsa Safir Plus HD 13 - v1.54<br/><a href='https://www.ekipgames.com/p/temsa-safir-plus-hd-13.html' target='_blank'>Mod'u İndir</a>",
         "Temsa Maraton 3 VIP - v1.54<br/><a href='https://www.ekipgames.com/p/temsa-maraton-3-vip.html' target='_blank'>Mod'u İndir</a>",
         "Grand Utopia 1:1 - v1.54<br/><a href='https://www.ekipgames.com/p/grand-utopia.html' target='_blank'>Mod'u İndir</a>",
+        "OyuncuyusBisMap - v1.54<br/><a href='https://www.ekipgames.com/p/turkiye-yks-haritasi.html' target='_blank'>Mod'u İndir</a>",
     ];
 
     let currentIndex = parseInt(localStorage.getItem('currentNotificationIndex')) || 0;
