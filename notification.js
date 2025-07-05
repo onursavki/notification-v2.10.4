@@ -3,7 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "📧 Davet Mektubunuz Var.<br/><a href='https://kick.com/ekipgamestv' target='_blank'>kick.com/EkipGamesTV</a>",
         "Yeni Oyun Yayınlandı.<br/><a href='https://www.ekipgames.com/2025/02/RoadCraft.html' target='_blank'>RoadCraft</a>",
         "Yeni Otobüs Yayınlandı.<br/><a href='https://www.ekipgames.com/p/setra-517hdh.html' target='_blank'>Setra S517HDH</a>",
-        " 💰 Web Sitemizi Destekle.<br/><a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
+        "💰 Web Sitemizi Destekle.<br/><a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
+        "Euro Truck Simulator 2 v1.55 Çıktı<br/><a href='https://www.ekipgames.com/2025/07/Euro-Truck-Simulator-2-v1-55.html' target='_blank'>İncele</a>",
     ];
 
     let currentIndex = parseInt(localStorage.getItem('currentNotificationIndex')) || 0;
