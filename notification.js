@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "Twitch kanalını Takip Et<br/><a href='https://www.twitch.tv/ekipgamestv' target='_blank'>twitch.tv/EkipGamesTV</a>",
         "Yeni Otobüs Mod'u Yayınlandı.<br/><a href='https://www.ekipgames.com/p/setra-517hdh.html' target='_blank'>Setra S517HDH</a>",
         "💰 Web Sitemizi Destekle.<br/><a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
-        "Euro Truck Simulator 2 v1.55 Çıktı<br/><a href='https://www.ekipgames.com/2025/07/Euro-Truck-Simulator-2-v1-55.html' target='_blank'>İncele</a>",
+        "Euro Truck Simulator 2 v1.55 Çıktı<br/><a href='https://www.ekipgames.com/2025/07/Euro-Truck-Simulator-2-v1-55.html' target='_blank'>Şimdi İncele</a>",
     ];
 
     let currentIndex = parseInt(localStorage.getItem('currentNotificationIndex')) || 0;
