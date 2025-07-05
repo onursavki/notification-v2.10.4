@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const notifications = [
-        "Takip Et<br/><a href='https://kick.com/ekipgamestv' target='_blank'>kick.com/EkipGamesTV</a>",
+        "Kick kanalını Takip Et<br/><a href='https://kick.com/ekipgamestv' target='_blank'>kick.com/EkipGamesTV</a>",
+        "Twitch kanalını Takip Et<br/><a href='https://www.twitch.tv/ekipgamestv' target='_blank'>twitch.tv/EkipGamesTV</a>",
         "Yeni Oyun Yayınlandı.<br/><a href='https://www.ekipgames.com/2025/02/RoadCraft.html' target='_blank'>RoadCraft</a>",
         "Yeni Otobüs Yayınlandı.<br/><a href='https://www.ekipgames.com/p/setra-517hdh.html' target='_blank'>Setra S517HDH</a>",
         "💰 Web Sitemizi Destekle.<br/><a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
