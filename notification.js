@@ -13,6 +13,9 @@ document.addEventListener('DOMContentLoaded', function() {
         "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/temsa-safir-2-vip.html#google_vignette' target='_blank'>Temsa Safir 2 VIP</a>",
         "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/temsa-safir-plus-hd-13.html' target='_blank'>Temsa Safir Plus HD 13</a>",
         "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/temsa-maraton-3-vip.html' target='_blank'>Temsa Maraton 3 VIP</a>",
+        "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/grand-utopia.html' target='_blank'>Grand Utopia 1:1</a>",
+        "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/tasiyici-map.htmll' target='_blank'>Taşıyıcı Map</a>",
+        "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/oyuncuyusbis-map.html' target='_blank'>OyuncuyusBisMap</a>",
     ];
 
     let currentIndex = parseInt(localStorage.getItem('currentNotificationIndex')) || 0;
