@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const notifications = [
         "🟢Kick kanalını Takip Et<br/>🔗<a href='https://kick.com/ekipgamestv' target='_blank'>kick.com/EkipGamesTV</a>",
         "🟣Twitch kanalını Takip Et<br/>🔗<a href='https://www.twitch.tv/ekipgamestv' target='_blank'>twitch.tv/EkipGamesTV</a>",
-        "💰 Web Sitemizi Destekle.<br/>🔗<a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
+        "💰Web Sitemizi Destekle.<br/>🔗<a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
         "Euro Truck Simulator 2 v1.55 Çıktı<br/><a href='https://www.ekipgames.com/2025/07/Euro-Truck-Simulator-2-v1-55.html' target='_blank'>Şimdi İncele</a>",
         "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/neoplan-cityliner.html' target='_blank'>Neoplan Cityliner</a>",
         "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/neoplan-tourliner-c13.html' target='_blank'>Neoplan Tourliner C13</a>",
