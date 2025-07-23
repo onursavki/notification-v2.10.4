@@ -3,19 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "🟢Kick kanalını Takip Et<br/>🔗<a href='https://kick.com/ekipgamestv' target='_blank'>kick.com/EkipGamesTV</a>",
         "🟣Twitch kanalını Takip Et<br/>🔗<a href='https://www.twitch.tv/ekipgamestv' target='_blank'>twitch.tv/EkipGamesTV</a>",
         "💰Web Sitemizi Destekle.<br/>🔗<a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
-        "Euro Truck Simulator 2 v1.55 Çıktı<br/><a href='https://www.ekipgames.com/2025/07/Euro-Truck-Simulator-2-v1-55.html' target='_blank'>Şimdi İncele</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/neoplan-cityliner.html' target='_blank'>Neoplan Cityliner</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/neoplan-tourliner-c13.html' target='_blank'>Neoplan Tourliner C13</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/yeni-man-lions.html' target='_blank'>Man Lion's 2023</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/2023-travego-15shd.html' target='_blank'>2023 Travego 15SHD</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/setra-516hd.html' target='_blank'>Setra S516HD</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/setra-s531dt.html' target='_blank'>Setra S531DT</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/temsa-safir-2-vip.html#google_vignette' target='_blank'>Temsa Safir 2 VIP</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/temsa-safir-plus-hd-13.html' target='_blank'>Temsa Safir Plus HD 13</a>",
-        "🚌Yeni Otobüs Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/temsa-maraton-3-vip.html' target='_blank'>Temsa Maraton 3 VIP</a>",
-        "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/grand-utopia.html' target='_blank'>Grand Utopia 1:1</a>",
-        "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/tasiyici-map.htmll' target='_blank'>Taşıyıcı Map</a>",
-        "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/oyuncuyusbis-map.html' target='_blank'>OyuncuyusBisMap</a>",
+        "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/roextended-turkiye-haritasi.html' target='_blank'>Roextended Türkiye Haritası</a>",
     ];
 
     let currentIndex = parseInt(localStorage.getItem('currentNotificationIndex')) || 0;
