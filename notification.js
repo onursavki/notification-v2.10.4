@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "🟣Twitch kanalını Takip Et<br/>🔗<a href='https://www.twitch.tv/ekipgamestv' target='_blank'>twitch.tv/EkipGamesTV</a>",
         "💰Web Sitemizi Destekle.<br/>🔗<a href='https://donate.bynogame.com/ekipgamestv' target='_blank'>ByNoGame</a>",
         "🗺️Yeni Harita Mod'u Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/p/roextended-turkiye-haritasi.html' target='_blank'>Roextended Türkiye Haritası</a>",
+        "🗺️ProMods Europe Yayınlandı.<br/>🔗<a href='https://www.ekipgames.com/2013/08/ProMods-Europe.html' target='_blank'>ETS 2 ve ATS ProMods</a>",
     ];
 
     let currentIndex = parseInt(localStorage.getItem('currentNotificationIndex')) || 0;
